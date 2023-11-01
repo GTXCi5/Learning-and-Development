@@ -6,6 +6,7 @@ public class ExecuteJsonCreate {
 		// TODO Auto-generated method stub
 		JsonObjectModel jsonObj = new JsonObjectModel();
 		jsonObj.printMessage();
+		jsonObj.printMessage();
 	}
 
 }
